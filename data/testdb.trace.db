@@ -1,0 +1,4 @@
+2021-08-28 23:46:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "messages" nicht gefunden
+Table "messages" not found; SQL statement:
+SELECT "messages"."ID" AS "ID", "messages"."TEXT" AS "TEXT" FROM "messages" [42102-200]
